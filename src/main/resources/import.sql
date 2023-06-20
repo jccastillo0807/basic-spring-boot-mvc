@@ -1,0 +1,1 @@
+INSERT INTO t_personas (celular, ciudad, es_cliente, direcion, fecha_nacimiento, numero_identificacion, primer_apellido, primer_nombre, segundo_apellido, segundo_nombre, telefono, es_testigo, tipo_identificacion) VALUES ('313000000', 'POPAYAN', 1, 'direccion 1', '2002-10-10', '12345678', 'prime_ape', 'primer_nombre', 'segund_apell', 'segund-nombre', '98765434657',0, 'CC');
